@@ -1,0 +1,4 @@
+{
+  "app_location": "/",      // root of your HTML/CSS files
+  "output_location": ""     // no build, so leave empty
+}
